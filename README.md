@@ -1,8 +1,13 @@
 Name: M Jahnavi
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT6WDS743
+
 Domain: Full Stack
+
 Duration: JULY 1st,2024 to AUGUST 15th,2024
+
 Mentor: N. Santhosh Kumar
 
 Overview of the Project
